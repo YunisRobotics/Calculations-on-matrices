@@ -7,32 +7,34 @@ A Python program for performing basic operations on two matrices, such as additi
 
 - **Matrix Creation**: Initialize matrices with custom dimensions, either with random values or by entering values manually.
 - **Operations**: Supports addition, subtraction, and multiplication of matrices when dimensions allow.
-- **Compatibility Check**: Automatically verifies if the matrices are compatible for each operation.
+- **Compatibility Check**: Automatically checks if the matrices are compatible for each operation.
 
 ## Getting Started
 
-### Prerequisites
+### Requirements
 
 - Python 3.x
+- Basic Python knowledge
+- Git installed
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/matrix-operations.git
+   git clone https://github.com/YunisRobotics/Calculations-on-matrices.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd matrix-operations
+   cd Matrix-Operations
    ```
 
 3. Run the program:
    ```bash
-   python matrix_operations.py
+   python Matrix_Operations.py
    ```
 
-### Usage Instructions
+### Usage Guide
 
 1. Upon running, you’ll be prompted to choose a mode for matrix initialization:
 
@@ -78,8 +80,8 @@ Result of Multiplication:
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for review.
+Contributions are welcome! Please give feedback to my project or fork the repository and submit a pull request for review.
 
 ## License
 
-This project is available under the terms outlined in the LICENSE file.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/YunisRobotics/Calculations-on-matrices/blob/main/LICENSE) file for more details.
